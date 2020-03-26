@@ -1,8 +1,6 @@
 from datetime import datetime
 from my_first_flask_app import db
 
-
-
 ################################################################## __ DATABASE STRUCTURE __ #######################################################################
 #creating database as classes 
 class User(db.Model):

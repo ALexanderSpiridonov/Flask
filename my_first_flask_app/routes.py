@@ -12,9 +12,21 @@ posts = [
         'date_posted': 'Jan 01, 2020'
     },
     {
+        'section': 'Feeding status',
+        'title': 'Information about feeding quality',
+        'content': 'Here you can see an information about feeding process',
+        'date_posted': 'Jan 01, 2020'
+    },
+    {
         'section': 'Ketosis checkup',
         'title': 'Ketosis information',
         'content': 'Here you can see an information about ketosis',
+        'date_posted': 'Jan 01, 2020'
+    },
+    {
+        'section': 'Heard overview',
+        'title': 'Heard information',
+        'content': 'Here you can see an information about your heard',
         'date_posted': 'Jan 01, 2020'
     }
 ]

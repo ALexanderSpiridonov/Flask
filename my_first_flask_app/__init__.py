@@ -10,5 +10,6 @@ db = SQLAlchemy(app)
 bcrypt = Bcrypt(app)
 login_manager = LoginManager(app)
 login_manager.login_view = 'login'
+login_manager.login_message_category = 'info' # bootstrap category for better visual appearance 
 
 from my_first_flask_app import routes
